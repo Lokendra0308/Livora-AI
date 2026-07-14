@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Nexus AI design tokens — dark-mode-first, since this is a dev/AI tool */
+@theme {
+  --color-nexus-bg: #0b0d10;
+  --color-nexus-surface: #14171c;
+  --color-nexus-border: #24282f;
+  --color-nexus-accent: #6366f1;
+  --color-nexus-accent-hover: #818cf8;
+  --color-nexus-text: #e6e8eb;
+  --color-nexus-text-muted: #9aa1ab;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-nexus-bg);
+  color: var(--color-nexus-text);
+}
