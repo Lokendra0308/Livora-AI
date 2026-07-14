@@ -1,4 +1,4 @@
-# Nexus AI — Multi-Agent AI Platform
+# Livora AI — Multi-Agent AI Platform
 
 > 🚧 Work in progress, built step by step. This README will be expanded into
 > full documentation (architecture diagram, setup guide, API docs, deployment
